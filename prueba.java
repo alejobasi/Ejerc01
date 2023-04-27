@@ -5,7 +5,6 @@ public class prueba {
 		String s2 = s1 + " " + x;
 		String s3 = s2.substring(10,17);
 		String s4 = "is fun";
-		String s5 = s2 + s4;
 		String s6 = s2 + s4;
 		System.out.println("Este ficheroi se ha modificado");
 
@@ -21,7 +20,6 @@ public class prueba {
 		int y = 5;
 		String s7 = x + y + "total";
 		String s8 = "total " + x + y;
-		String s9 = " " + x + y + "total";
 		System.out.println("s6: " + s6);
 		System.out.println("s7: " + s7);
 		System.out.println("s8: " + s8);
