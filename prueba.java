@@ -23,5 +23,7 @@ public class prueba {
 		System.out.println("s6: " + s6);
 		System.out.println("s7: " + s7);
 		System.out.println("s8: " + s8);
+	 
+	 System.out.println("me llamo Alejo");
 	}  
 }
